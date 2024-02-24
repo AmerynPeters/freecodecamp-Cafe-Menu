@@ -63,29 +63,34 @@ hr {
     margin-top: 25px;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* FOOTER */
 
-footer{
+footer {
     font-size: 14px;
 }
 
-a{
-    color:black;
-
+a {
+    color: black;
 }
 
 a:visited {
-  color: black;
+    color: black;
 }
 
 a:hover {
-  color: brown;
+    color: brown;
 }
 
 a:active {
-  color: brown;
+    color: brown;
 }
 
 .address {
-  margin-bottom:5px
+    margin-bottom: 5px;
 }
